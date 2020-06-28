@@ -1,0 +1,288 @@
+[
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Who is the youngest of Ned and Catelyn Stark's children?",
+	"a": "Bronn",
+	"b": "Sansa",
+	"c": "Rickon",
+	"d": "Robb",
+	"answer":  "c"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "What is the name of Jon Snow's wolf?",
+	"a": "Lady",
+	"b": "Grey Wind",
+	"c": "Summer",
+	"d": "Ghost",
+	"answer":  "d"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Who fights for Tyrion in his trial by combat in Season 1?",
+	"a": "Bronn",
+	"b": "The Hound",
+	"c": "Prince Oberyn",
+	"d": "Jaime Lannister",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Who is Joffrey's real father?",
+	"a": "Jaime",
+	"b": "Tyrion",
+	"c": "Robert Baratheon",
+	"d": "Eddard Stark",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Ser Gregor Clegane is nicknamed what?",
+	"a": "The Hound",
+	"b": "The Mountain",
+	"c": "The Wolf",
+	"d": "The Kingslayer",
+	"answer":  "b"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "What is the nickname of Jaime Lannister",
+	"a": "The one hand",
+	"b": "The Hound",
+	"c": "The Kingslayer",
+	"d": "The Sir Incest",
+	"answer":  "c"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Lord Commander Mormont is the leader of which force in Game of Thrones?",
+	"a": "The Night’s Watch",
+	"b": "The Dothraki Horde",
+	"c": "The King's Guard",
+	"d": "The Army Beyond the Wall",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Where does Theon Greyjoy come from?",
+	"a": "Dorne",
+	"b": "The Vale",
+	"c": "The Iron Islands",
+	"d": "The North",
+	"answer":  "c"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "What is the name of the god that the Red Priestess worships?",
+	"a": "The Lord of Light",
+	"b": "The God of Fire",
+	"c": "The Goddess of Thunder",
+	"d": "Flying Spaghetti Monster",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "In Season 3, what creature does Brienne have to fight in a pit?",
+	"a": "A bear",
+	"b": "A dragon",
+	"c": "A wolf",
+	"d": "A shape-shifter",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Khal Drogo was the leader of what?",
+	"a": "Night’s Watch",
+	"b": "King's Guard",
+	"c": "The Small Council",
+	"d": "Dothraki horde",
+	"answer":  "d"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Who is known as “Littlefinger”?",
+	"a": "Janos Slynt",
+	"b": "Petyr Baelish",
+	"c": "Grand Maester Pycelle",
+	"d": "Mace Tyrell",
+	"answer":  "b"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Who attempts to assassinate Daenerys in the marketplace?",
+	"a": "Wine merchant",
+	"b": "Dothraki Warrior",
+	"c": "Jaqen H'ghar",
+	"d": "Sansa Stark",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Who does the sellsword Bronn work for?",
+	"a": "Tyrion Lannister",
+	"b": "Jamie Lannister",
+	"c": "Robb Stark",
+	"d": "Eddard Stark",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "Lord Eddard Stark is married to whom?",
+	"a": "Cersei",
+	"b": "Catelyn",
+	"c": "Sansa",
+	"d": "Arya",
+	"answer":  "b"
+	
+},
+{	
+	"content" : "TV Series - Game of Thrones",
+	"question" : "What is the name of Rickon’s Dire wolf?",
+	"a": "Shaggydog",
+	"b": "Ghost",
+	"c": "Winter",
+	"d": "Summer",
+	"answer":  "a"
+	
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "What is the name of Gandalf's horse?",
+	"a": "Sahika",
+	"b": "Esteldin",
+	"c": "Shadowfax",
+	"d": "Brego",
+	"answer":  "c"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Who tells Frodo to keep the Ring secret and safe?",
+	"a": "Gandalf",
+	"b": "Sam",
+	"c": "Elrond",
+	"d": "Aragorn",
+	"answer":  "a"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "The last bastion between Minis Tirith and Mordor was where?",
+	"a": "Minas Morgul",
+	"b": "Osgiliath",
+	"c": "Shire",
+	"d": "Isengard",
+	"answer":  "b"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Who lights the beacon of Minas Tirith?",
+	"a": "Sam",
+	"b": "Frodo",
+	"c": "Pippin",
+	"d": "Merry",
+	"answer":  "c"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "How does the Witch-king die?",
+	"a": "By falling from the tower of Isengard",
+	"b": "A blade to the head",
+	"c": "By decapitacion",
+	"d": "By falling off a horse",
+	"answer":  "b"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "In The Return of the King, who sees their own child in a vision/dream?",
+	"a": "Arwen",
+	"b": "Eowyn",
+	"c": "Eomer",
+	"d": "Galadriel",
+	"answer":  "a"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Who says, \"Do you not know death when you see it old man\"?",
+	"a": "Sauron",
+	"b": "Saruman",
+	"c": "Witch-King",
+	"d": "Balrog",
+	"answer":  "c"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Saruman explains in The Fellowship of the Ring that Orcs were once what?",
+	"a": "Dwarves",
+	"b": "Men",
+	"c": "Elves",
+	"d": "Goblin",
+	"answer":  "c"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "When Gandalf comes to the Shire, whose birthday are they preparing to celebrate?",
+	"a": "Frodo's",
+	"b": "Bilbo's",
+	"c": "Saruman's",
+	"d": "Sam's",
+	"answer":  "b"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Which character claims he was there \"the day mens' courage failed\"?",
+	"a": "Gandalf",
+	"b": "Galadriel",
+	"c": "Aragorn",
+	"d": "Elrond",
+	"answer":  "d"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Which is the City of Kings?",
+	"a": "Minas Tirith",
+	"b": "Minas Morgul",
+	"c": "Helm's Deep",
+	"d": "Edoras",
+	"answer":  "a"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Who destroyed the host of orcs that had captured Merry and Pippin?",
+	"a": "Eomer and his Rohirrim",
+	"b": "Gimli and Legolas",
+	"c": "Sam and Frodo",
+	"d": "Ents",
+	"answer":  "a"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "What is the name of Southern Kingdom of Middle-Earth, founded by the Dunedain?",
+	"a": "Gondor",
+	"b": "Rohan",
+	"c": "Angmar",
+	"d": "Dunedain",
+	"answer":  "a"
+},
+{	
+	"content" : "Movie - Lord of the Rings",
+	"question" : "Who takes the ring from Frodo for safe keeping while he is imprisoned in the Tower of Cirith Ungol?",
+	"a": "Gandalf",
+	"b": "Sam",
+	"c": "Aragorn",
+	"d": "Arven",
+	"answer":  "b"
+}
+]
